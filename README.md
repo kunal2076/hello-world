@@ -1,5 +1,2 @@
 # hello-world
-Hello World Repository
-
-I ve had milk and cereals for breakfast.
-My hands feel cold.
+Hello World Repository - sample GIT repository *can be passed over for other more important repositories in this space*
